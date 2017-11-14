@@ -1,0 +1,7 @@
+Wine Bottles
+Game: Bayonetta
+© 2009 Sega / Platinum Games
+
+Ripped by Mystie from The VG Resource. Please credit her if used.
+
+UPDATE 08/20/2014: Added two bottles that I was missing, and smoothed out the meshes of the other bottles.
